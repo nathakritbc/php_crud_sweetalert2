@@ -26,7 +26,7 @@
                          target="_blank">Profile</a>
                  </li>
                  <li class="nav-item">
-                     <a class="nav-link" href="https://github.com/nathakrit061103jnt/php_crud_sweetalert2"
+                     <a class="nav-link" href="https://github.com/nathakritbc/php_crud_sweetalert2"
                          target="_blank">Source
                          Code</a>
                  </li>
@@ -46,7 +46,7 @@
                      </a>
                  </li>
                  <li class="nav-item">
-                     <a href="https://github.com/nathakrit061103jnt" class="nav-link waves-effect" target="_blank">
+                     <a href="https://github.com/nathakritbc" class="nav-link waves-effect" target="_blank">
                          <i class="fab fa-github"></i>
                      </a>
                  </li>
